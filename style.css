@@ -62,7 +62,7 @@ li {
   color: #e5e7eb;
 }
 
-#sign-up-button {
+.sign-up-button {
   background-color: #3882f6;
   border: none;
   border-radius: 8px;
