@@ -155,3 +155,40 @@ figcaption {
   font-size: 24px;
   align-self: flex-end;
 }
+
+/* ------------------------ end -------------------------- */
+
+#end {
+  height: 320px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#call-to-action-section {
+  background-color: #3882f6;
+  border-radius: 8px;
+  display: flex;
+}
+
+#end-left {
+  padding: 50px 100px;
+}
+
+#end-header {
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+}
+
+#end-sign-up {
+  color: #e5e7eb;
+}
+
+#end-right {
+  padding: 50px 100px;
+}
+
+.end-button {
+  border: 1px solid white;
+}
