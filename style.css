@@ -86,3 +86,45 @@ li {
 }
 
 /* ------------------- mid1 section ------------------------------ */
+
+#mid1 {
+  height: 480px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#info-header {
+  font-size: 36px;
+  margin-top: 55px;
+  font-weight: bolder;
+  color: #1f2937;
+}
+
+.mid1-image-placeholder {
+  width: 150px;
+  height: 150px;
+  border: 5px solid #3882f6;
+  border-radius: 15px;
+}
+
+.subtext {
+  width: 150px;
+  text-align: center;
+  margin-top: 7px;
+  color: #1f2937;
+}
+
+#images-text-list {
+  display: flex;
+  margin-bottom: 120px;
+}
+
+.images-text-item {
+  width: 200px;
+  /* margin: 0 20px; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
