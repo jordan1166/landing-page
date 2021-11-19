@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 
-/* start section */
+/* ------------------ start section ---------------------------- */
 
 #logo {
   font-size: 24px;
@@ -84,3 +84,5 @@ li {
   justify-content: center;
   align-items: center;
 }
+
+/* ------------------- mid1 section ------------------------------ */
