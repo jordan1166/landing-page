@@ -192,3 +192,12 @@ figcaption {
 .end-button {
   border: 1px solid white;
 }
+
+#footer {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
